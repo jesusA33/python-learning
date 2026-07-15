@@ -1,2 +1,7 @@
-# python-learning
-Mi curso de Python + Git
+# Mi Curso de Python
+
+Repositorio para aprender Python + Git
+
+## Proyectos
+- hola.py - Mi primer script
+
