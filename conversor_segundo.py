@@ -1,7 +1,7 @@
 segundos = float(input("ingrese la cantidad de segundos "))
 horas = segundos // 3600
 segundos_restantes = segundos % 3600 
-minutos = segundos // 60 
+minutos = segundos_restantes // 60 
 segundos_finales = segundos_restantes % 60 
 
 
