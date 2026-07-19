@@ -5,4 +5,3 @@ euro = ingreso * 0.85
 print(f"Cantidad en USD: {ingreso}")
 print(f"{ingreso} USD = {euro} EUR")
 
-
